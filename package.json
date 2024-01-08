@@ -1,0 +1,14 @@
+{
+  "name": "react-native-quickjs",
+  "version": "0.0.0",
+  "description": "react-native-quickjs",
+  "main": "src/index",
+  "codegenConfig": {
+    "name": "RNQuickjsSpec",
+    "type": "modules",
+    "jsSrcsDir": "src"
+  },
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme"
+}
